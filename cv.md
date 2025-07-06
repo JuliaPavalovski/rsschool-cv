@@ -5,9 +5,9 @@
 ### **Contact information:**
 
 - Email: [julia.pavalovski@gmail.com](mailto:julia.pavalovski@gmail.com)
-- Telegram: @JuliaPavalovski
 - GitHub: [https://github.com/JuliaPavalovski](https://github.com/JuliaPavalovski)
 - +48 791 309 739
+- Telegram: @JuliaPavalovski
 
 ### **Briefly About Myself:**
 
