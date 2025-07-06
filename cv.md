@@ -27,6 +27,14 @@ I’m highly self-driven, adaptive, and motivated to transition fully into tech.
 - Adobe Photoshop, Figma
 - VS Code
 
+### **Code Example:**
+function changeText(newText) {
+  let element = document.getElementById('greeting');
+  element.textContent = newText;
+}
+
+changeText('Hello, JavaScript!');
+
 ### **Education**
 
 - Bachelor's degree in Frontend Development, (WSB Merito Bydgoszcz University Poland)
