@@ -22,12 +22,13 @@ I’m highly self-driven, adaptive, and motivated to transition fully into tech.
 ### **Skills and Proficiency:**
 
 - HTML, CSS
-- JavaScript (ES6+)
+- JavaScript
 - Git, GitHub
 - Adobe Photoshop, Figma
 - VS Code
 
 ### **Code Example:**
+
 function changeText(newText) {
   let element = document.getElementById('greeting');
   element.textContent = newText;
